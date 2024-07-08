@@ -1,6 +1,5 @@
 <br><br><br>
 
-<img src="https://github.com/DXS-GROUP/.github/assets/154594695/52fefb88-bdcf-461f-aa2a-b263e4207bbf" width="100%"/>
-
+<img src="https://github.com/DXS-GROUP/.github/assets/154594695/57dc07af-d241-4851-9be5-ab9ff1043be6" width="100%"/>
 
 <br><br><br>
