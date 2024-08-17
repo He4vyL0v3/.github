@@ -5,8 +5,8 @@
   Currently a two person organisation creating good software for everyone. Want to join?<br>
   Contribute and communicate in the discord server
   <br><br>
-  <a href="https://t.me/DXS_TechSupport_bot"><kbd> <br> Tech Support <br> </kbd></a>
-  <a href="https://discord.gg/tnHSEc2cZv"><kbd> <br> Discord server <br> </kbd></a>
+  <a href="https://t.me/DXS_TechSupport_bot"><kbd> <br> 🛠️ - Tech Support - 🛠️ <br> </kbd></a>
+  <a href="https://discord.gg/tnHSEc2cZv"><kbd> <br> 💬 - Discord server - 💬 <br> </kbd></a>
   <br><br>
     <a href="https://t.me/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true" width="60px" /></a>
     <a href="https://discord.gg/#9707" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true" width="60px"/></a>
