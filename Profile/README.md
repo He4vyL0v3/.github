@@ -1,6 +1,6 @@
 <div align="center"> 
 <br><br><br>
-<img src="DXS_GROUP.png" width="100%"/>
+<img src="DXS_GROUP_HEADER.png" width="100%"/>
 <br><br>
   
 > 🍁 DXS GROUP - creating the future together
