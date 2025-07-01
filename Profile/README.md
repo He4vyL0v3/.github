@@ -5,7 +5,7 @@
 
 <br />
 
-`🍁 N9 GROUP - creating the future together`
+`🍁 creating the future together`
 
 <p align="center">
       <samp>
