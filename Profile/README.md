@@ -1,12 +1,13 @@
-<div align="center"> 
-<br><br><br>
+<img src="https://github.com/user-attachments/assets/d04152b4-2296-4907-9a87-9996fb4174ef" width="200px" align="left" />
 
-> 🍁 N9 GROUP - creating the future together
+<div align="center"> 
+<br><br>
+
+`🍁 N9 GROUP - creating the future together`
     
 ***Want to join? Contribute and communicate in the discord server***
-    
-<br>
-<a href="https://discord.gg/tnHSEc2cZv"><kbd> <br /> DISCORD SERVER <br /> </kbd></a>
-<a href="https://t.me/W2N3098"><kbd> <br /> TELEGRAM CHANNEL <br /> </kbd></a>
-<br><br><br>
+
+<a href="https://discord.gg/tnHSEc2cZv"><kbd>discord</kbd></a>
+<a href="https://t.me/W2N3098"><kbd>telegram</kbd></a>
+
 </div>
