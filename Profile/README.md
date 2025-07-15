@@ -1,11 +1,11 @@
 <div align="center"> 
 <br /><br /> 
 
-<img src="./21.png" width="250px" />
+<img src="./1.png" width="250px" />
 
-<br />
+<br /><br /> 
 
-`🍁 creating the future together`
+`🍁 HACK THE WORLD`
 
 <p align="center">
       <samp>
