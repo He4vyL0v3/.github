@@ -7,6 +7,8 @@
 
 ### `😜 HACK THE WORLD`
 
+<br />
+
 <p align="center">
       <samp>
          <a href="https://discord.gg/#9707" target="_blank">Discord</a> &#8226;
